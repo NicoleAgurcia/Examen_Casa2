@@ -1,0 +1,31 @@
+
+<!--<A>-->
+<!--  <B>-->
+<!--      Esta es una prueba-->
+<!--  </B>-->
+<!--</A>-->
+<!---->
+
+<!--<Pasteles>-->
+<!--  <Pastel nombre = "SELVA NEGRA" cantidad = "3" />-->
+<!--   <Pastel nombre = "Mil Hojas" cantidad = "30" />-->
+<!--    <Pastel nombre = "Mousse" cantidad = "12" />-->
+<!--</Pasteles>-->
+
+
+<continente nombre= "America">
+    <pais nombre= "Honduras">
+            <ciudad nombre="San Pedro" habitantes = "100"/>
+            <ciudad nombre="La Ceiba" habitantes = "50"/>
+            <ciudad nombre="Tegucigalpa" habitantes = "150"/>
+            <ciudad nombre="Gracias" habitantes = "25"/>
+        </pais>
+        <pais nombre= "Mexico">
+            <ciudad nombre="DF" habitantes = "500"/>
+            <ciudad nombre="Tijuana" habitantes = "75"/>
+            <ciudad nombre="Cancun" habitantes = "100"/>
+        </pais>
+        <pais nombre= "Argentina">
+            <ciudad nombre="Buenos Aires" habitantes = "400"/>
+        </pais>
+</continente>

@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1415717073 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/TinyXML2Test/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1415717045 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/TinyXML2Test/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1415717384 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/TinyXML2Test/main.cpp
+	<iostream>
+	"tinyxml2.h"
+
+1416324328 source:c:\users\omca\desktop\organizacion de archivos\ejemploxml-master\main.cpp
+	<iostream>
+	"tinyxml2.h"
+
+1415882846 c:\users\omca\desktop\organizacion de archivos\ejemploxml-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1415882846 source:c:\users\omca\desktop\organizacion de archivos\ejemploxml-master\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1415882846 source:c:\users\omca\desktop\organizacion de archivos\examencasa_2\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1415882846 c:\users\omca\desktop\organizacion de archivos\examencasa_2\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1418146380 source:c:\users\omca\desktop\organizacion de archivos\examencasa_2\main.cpp
+	<iostream>
+	"tinyxml2.h"
+	<list>
+	<windows.h>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<SFML/Graphics.hpp>
+
+1415882846 source:c:\users\omca\desktop\organizacion de archivos\casa probando\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1415882846 c:\users\omca\desktop\organizacion de archivos\casa probando\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1418312322 source:c:\users\omca\desktop\organizacion de archivos\casa probando\main.cpp
+	<iostream>
+	"tinyxml2.h"
+	<list>
+	<windows.h>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<SFML/Graphics.hpp>
+	<stack>
+
